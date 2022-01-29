@@ -11,7 +11,7 @@
 <p><img align="right" width="50%" src="https://github.com/Dedpy/Dedpy/blob/main/Boy%20working.png" alt="wassim-freelancer" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Web Design and other programming languages
 
 - 📫 How to reach me **wassimbenr@gmail.com**
 
