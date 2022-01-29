@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Wassim</h1>
 <h3 align="center">A passionate web designer from Tunisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dedpy&label=Profile%20views&color=512dd2&style=flat" alt="dedpy" /> </p>
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=dedpy&label=Profile%20views&color=512dd2&style=flat" alt="dedpy" /> </p>
 
 
 
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" width="50%" src="https://github.com/Dedpy/Dedpy/blob/main/Boy%20working.png" alt="wassim-freelancer" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
