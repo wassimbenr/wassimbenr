@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wassim</h1>
+<h1 align="center">Hi <img src="https://github.com/Dedpy/Dedpy/blob/main/Hi.gif" width="30px">, I'm Wassim</h1>
 <h3 align="center">A passionate web designer from Tunisia</h3>
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=dedpy&label=Profile%20views&color=512dd2&style=flat" alt="dedpy" /> </p>
