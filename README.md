@@ -1,13 +1,15 @@
 <h1 align="center">Hi <img src="https://github.com/Dedpy/Dedpy/blob/main/Hi.gif" width="30px">, I'm Wassim</h1>
-<h3 align="center">A passionate web designer from Tunisia</h3>
 
+<!-- Profile views -->
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=dedpy&label=Profile%20views&color=512dd2&style=flat" alt="dedpy" /> </p>
-
-
-
-
 <br>
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&width=700&lines=Passionate+about+changing+the+world+with+technology.;Full+stack+JavaScript+developer%2C;Photo+Editing+Freelancer%2C;Professional+Photographer+and+Filmmaker."></a>
+</p>
+
+
+<!-- Photo illustration -->
 <p><img align="right" width="50%" src="https://github.com/Dedpy/Dedpy/blob/main/Boy%20working.png" alt="wassim-freelancer" /></p>
 
 
