@@ -5,15 +5,21 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript and symfony**
+<br>
 
-- 👨‍💻 All of my projects are available at [wassimbenromdhane.me](wassimbenromdhane.me)
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
+- 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **wassimbenr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/117EScnliNfyQ-sED-QwhM2RcS9C2nQW2/view?usp=sharing](https://drive.google.com/file/d/117EScnliNfyQ-sED-QwhM2RcS9C2nQW2/view?usp=sharing)
+- ⚡ Know about my experiences : [CV](https://drive.google.com/file/d/117EScnliNfyQ-sED-QwhM2RcS9C2nQW2/view?usp=sharing)
+
+<br>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +36,9 @@
 
 
 <br/>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dedpy&margin-w=15&no-bg=true&no-frame=true&theme=darkhub" alt="dedpy" /></a>
+  </p>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Dedpy&show_icons=true&theme=github_dark&hide_border=true&" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Dedpy&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
@@ -41,6 +50,4 @@
     <a href="https://open.spotify.com/user/wassimbenromdhane">
     <img align="right" src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&">
   </a></p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dedpy&margin-w=15&no-bg=true&no-frame=true&theme=darkhub" alt="dedpy" /></a>
-  </p>
+
