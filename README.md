@@ -27,13 +27,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dedpy&show_icons=true&locale=en&layout=compact" alt="dedpy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dedpy&show_icons=true&locale=en" alt="dedpy" /></p>
-
-
-
-## My Statistics
 
 <br/>
 <p align="left">
@@ -41,6 +35,12 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Dedpy&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   </a>
 </p>
-<br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dedpy" alt="dedpy" /></a> </p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dedpy&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="dedpy" />
+    <a href="https://open.spotify.com/user/wassimbenromdhane">
+    <img align="right" src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&">
+  </a></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dedpy&margin-w=15&no-bg=true&no-frame=true&theme=darkhub" alt="dedpy" /></a>
+  </p>
