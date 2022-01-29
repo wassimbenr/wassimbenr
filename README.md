@@ -33,6 +33,14 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Dedpy&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="dedpy" /></p>
+## My Statistics
+
+<br/>
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Dedpy&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Dedpy&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  </a>
+</p>
+<br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dedpy" alt="dedpy" /></a> </p>
