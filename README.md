@@ -37,7 +37,7 @@
 
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Dedpy&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Dedpy&show_icons=true&theme=github_dark&hide_border=true&" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Dedpy&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   </a>
 </p>
