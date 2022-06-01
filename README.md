@@ -1,21 +1,17 @@
-<h1 align="center">Hi <img src="https://github.com/Dedpy/Dedpy/blob/main/Hi.gif" width="30px">, I'm Wassim</h1>
-
-<!-- Profile views  with Typing SVG-->
+<h1 align="center">Hi 👋, I'm Wassim</h1>
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=dedpy&label=Profile%20views&color=512dd2&style=flat" alt="dedpy" /> 
-<img align="right" src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&width=700&lines=Passionate+about+changing+the+world+with+technology.;Full+stack+JavaScript+developer%2C;Photo+Editing+Freelancer%2C;Professional+Photographer+and+Filmmaker."></a>
+  
+<img align="right" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=10000&center=true&vCenter=true&width=800&lines=I+am+passionate+about+technology%2C+innovation+and+big+challenging+tasks+on+my+to+do+list.">
 </p>
 <br>
-
-
-<!-- Photo illustration -->
-<p><img align="right" width="50%" src="https://github.com/Dedpy/Dedpy/blob/main/Boy%20working.png" alt="wassim-freelancer" /></p>
+<p><img align="right" width="50%" src="https://github.com/Dedpy/Dedpy/blob/main/3D.png" alt="wassim-freelancer" /></p>
 
 
 - 🌱 I’m currently learning Web Design and other programming languages
 
 - 📫 How to reach me **wassimbenr@gmail.com**
 
-- ⚡ Know about my experiences : [CV](https://drive.google.com/file/d/117EScnliNfyQ-sED-QwhM2RcS9C2nQW2/view?usp=sharing)
+- ⚡ Know about my experiences : [CV](https://drive.google.com/drive/folders/1ah6_8N-90SLxJsyGetJZ5q_tzJIHgGp3?usp=sharing)
 
 <br>
 
