@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Wassim</h1>
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=dedpy&label=Profile%20views&color=512dd2&style=flat" alt="dedpy" /> 
-  
-<img align="right" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=10000&center=true&vCenter=true&width=800&lines=I+am+passionate+about+technology%2C+innovation+and+big+challenging+tasks+on+my+to+do+list.">
+
+<p align="left">
+  <img  src="https://komarev.com/ghpvc/?username=dedpy&label=Profile%20views&color=512dd2&style=flat" alt="dedpy" />
+  <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=10000&center=true&vCenter=true&width=800&lines=I+am+passionate+about+technology%2C+innovation+and+big+challenging+tasks+on+my+to+do+list.">
 </p>
+
 <br>
+
 <p><img align="right" width="50%" src="https://github.com/Dedpy/Dedpy/blob/main/3D.png" alt="wassim-freelancer" /></p>
 
 
