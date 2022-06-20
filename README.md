@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **wassimbenr@gmail.com**
 
-- ⚡ Know about my experiences : [CV](https://drive.google.com/drive/folders/1ah6_8N-90SLxJsyGetJZ5q_tzJIHgGp3?usp=sharing)
+- ⚡ Know about my experiences : [CV](https://drive.google.com/file/d/10T8-khmhSfFPer4oqk-30hQVPcYjV-va/view?usp=sharing)
 
 <br>
 
