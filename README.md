@@ -43,14 +43,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-
-
-
-
 <br/>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dedpy&margin-w=15&no-bg=true&no-frame=true&theme=darkhub" alt="dedpy" /></a>
-  </p>
+
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Dedpy&show_icons=true&theme=github_dark&hide_border=true&" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Dedpy&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
@@ -63,3 +57,6 @@
     <img width="50%" align="right" src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&">
   </a></p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dedpy&margin-w=15&row=1&column=6&no-bg=true&no-frame=true&theme=darkhub" alt="dedpy" /></a>
+  </p>
