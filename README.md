@@ -2,13 +2,16 @@
 
 <p align="left">
   <img  src="https://komarev.com/ghpvc/?username=dedpy&label=Profile%20views&color=512dd2&style=flat" alt="dedpy" />
-  <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=10000&center=true&vCenter=true&width=800&lines=I+am+passionate+about+technology%2C+innovation+and+big+challenging+tasks+on+my+to+do+list.">
 </p>
 
+<h5 align="left">Connect with me:</h5>
+<p align="left">
+<a href="https://linkedin.com/in/wassimbenromdhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wassimbenromdhane" height="30" width="40" /></a>
+<a href="https://fb.com/wassimbenromdhane1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wassimbenromdhane1" height="30" width="40" /></a>
+<a href="https://instagram.com/wassimbenromdhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wassimbenromdhane" height="30" width="40" /></a>
+</p>
 <br>
-
 <p><img align="right" width="50%" src="https://github.com/Dedpy/Dedpy/blob/main/3D.png" alt="wassim-freelancer" /></p>
-
 
 - 🌱 I’m currently learning Web Design and other programming languages
 
@@ -17,15 +20,6 @@
 - ⚡ Know about my experiences : [CV](https://drive.google.com/file/d/10T8-khmhSfFPer4oqk-30hQVPcYjV-va/view?usp=sharing)
 
 <br>
-
-
-
-<h5 align="left">Connect with me:</h5>
-<p align="left">
-<a href="https://linkedin.com/in/wassimbenromdhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wassimbenromdhane" height="30" width="40" /></a>
-<a href="https://fb.com/wassimbenromdhane1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wassimbenromdhane1" height="30" width="40" /></a>
-<a href="https://instagram.com/wassimbenromdhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wassimbenromdhane" height="30" width="40" /></a>
-</p>
 
 <h5 align="left">Languages and Tools:</h5>
 <p align="left"> 
