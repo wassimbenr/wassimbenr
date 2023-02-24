@@ -11,7 +11,8 @@
 <a href="https://instagram.com/wassimbenromdhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wassimbenromdhane" height="30" width="40" /></a>
 </p>
 <br>
-<p><img align="right" width="50%" src="https://github.com/Dedpy/Dedpy/blob/main/3D.png" alt="wassim-freelancer" /></p>
+<a href="https://app.daily.dev/dedpy"><img align="right" src="https://api.daily.dev/devcards/b4dbfe023d2d4273ae598120a0abaaf5.png?r=tfa" width="35%" alt="Wassim Ben R.'s Dev Card"/></a>
+
 
 - 🌱 I’m currently learning Web Design and other programming languages
 
