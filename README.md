@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm Wassim</h1>
-
 <p align="left">
   <img  src="https://komarev.com/ghpvc/?username=dedpy&label=Profile%20views&color=512dd2&style=flat" alt="dedpy" />
 </p>
+<a href="https://app.daily.dev/dedpy">
+  <img align="right" src="https://api.daily.dev/devcards/b4dbfe023d2d4273ae598120a0abaaf5.png?r=tfa" width="40%" alt="Wassim Ben R.'s Dev Card"/>
+</a>
+
+- 🌱 I’m currently focusing on frontend engineering
+
+- 📫 How to reach me **wassimbenr@gmail.com**
+
+- ⚡ Know about my experiences : [CV](https://drive.google.com/file/d/10T8-khmhSfFPer4oqk-30hQVPcYjV-va/view?usp=sharing)
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
@@ -11,17 +19,6 @@
 <a href="https://instagram.com/wassimbenromdhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wassimbenromdhane" height="30" width="40" /></a>
 </p>
 <br>
-<a href="https://app.daily.dev/dedpy"><img align="right" src="https://api.daily.dev/devcards/b4dbfe023d2d4273ae598120a0abaaf5.png?r=tfa" width="35%" alt="Wassim Ben R.'s Dev Card"/></a>
-
-
-- 🌱 I’m currently learning Web Design and other programming languages
-
-- 📫 How to reach me **wassimbenr@gmail.com**
-
-- ⚡ Know about my experiences : [CV](https://drive.google.com/file/d/10T8-khmhSfFPer4oqk-30hQVPcYjV-va/view?usp=sharing)
-
-<br>
-
 <h5 align="left">Languages and Tools:</h5>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
