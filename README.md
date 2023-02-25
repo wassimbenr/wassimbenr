@@ -41,12 +41,25 @@
 <p align="center">
 <a href="https://app.daily.dev/wassimbenr"><img align="right" src="https://api.daily.dev/devcards/b4dbfe023d2d4273ae598120a0abaaf5.png?r=coe" width="40%" alt="Wassim Ben R.'s Dev Card"/></a>
 </p>
+<br>
 
- **👨‍💻 Skills**:&nbsp;&nbsp;I have experience working with HTML, CSS, JavaScript, and related frameworks like React and Angular. I'm also familiar with Git, and UI/UX design principles. I also have a strong understanding of software design patterns and architectures.
+**🚀 Skills**:&nbsp;
+I specialize in creating beautiful and responsive user interfaces using HTML, CSS, JavaScript, and various frontend frameworks like React and Angular. I'm also experienced in version control with Git and have a solid understanding of web development best practices.
 
-**🌍 Interests**:&nbsp;&nbsp;Apart from coding, you can find me with my camera in hand, exploring the world and capturing its beauty, or playing chess. I'm also a minimalist at heart and enjoy perfecting my desk setup to enhance my productivity.
+**👨‍💻 Learning**:&nbsp;
+I'm a lifelong learner and always looking for opportunities to grow my skills and knowledge. I'm currently learning **Next.js Nest.js**
 
- **📫 Let's Connect**:&nbsp;&nbsp;If you have any questions or want to chat about tech, coding, or photography, feel free to connect with me on LinkedIn or Twitter. I'm always open to meeting new people and exchanging ideas.
+**📷 Photography**:&nbsp;
+When I'm not coding, I'm likely exploring my love for photography. I enjoy experimenting with different colors, perspectives, and lighting to create striking and vibrant images.
+
+**♟️ Chess**:&nbsp;
+I also enjoy playing chess in my free time. It helps me sharpen my strategic thinking skills and provides a fun mental challenge.
+
+**💻 Tech**:&nbsp;
+I have a keen interest in the latest tech gadgets and am always looking to improve my minimalistic desk setup.
+
+**📫 Let's connect**:&nbsp;
+If you want to learn more about my work or have any questions, feel free to reach out to me on LinkedIn or Twitter. I'm always happy to chat with fellow tech enthusiasts!
 
 <br>
 
