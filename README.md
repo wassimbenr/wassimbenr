@@ -39,9 +39,7 @@
 </p>
 <!-- Social Section -->
 <p align="center">
-<a href="https://app.daily.dev/dedpy">
-  <img align="right" src="https://api.daily.dev/devcards/b4dbfe023d2d4273ae598120a0abaaf5.png?r=tfa" width="40%" alt="Wassim Ben R.'s Dev Card"/>
-</a>
+<a href="https://app.daily.dev/wassimbenromdhane"><img align="right" src="https://api.daily.dev/devcards/b4dbfe023d2d4273ae598120a0abaaf5.png?r=3r3" width="40%" alt="Wassim Ben R.'s Dev Card"/></a>
 </p>
 
 - 🔭 &nbsp;I’m currently working on [colloHQ](https://github.com/colloHQ)
