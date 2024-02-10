@@ -37,11 +37,6 @@
     <img src="https://img.icons8.com/metro/26/D69254/stackoverflow.png"/>
   </a>
 </p>
-<!-- Social Section -->
-<p align="center">
-<a href="https://app.daily.dev/wassimbenr"><img align="right" src="https://api.daily.dev/devcards/b4dbfe023d2d4273ae598120a0abaaf5.png?r=coe" width="40%" alt="Wassim Ben R.'s Dev Card"/></a>
-</p>
-<br>
 
 **🚀 Skills**:&nbsp;
 I specialize in creating beautiful and responsive user interfaces using HTML, CSS, JavaScript, and various frontend frameworks like React and Angular. I'm also experienced in version control with Git and have a solid understanding of web development best practices.
