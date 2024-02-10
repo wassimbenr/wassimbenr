@@ -1,41 +1,6 @@
-<p align="left">
-  <img  src="https://komarev.com/ghpvc/?username=wassimbenr&label=Profile%20views&color=D69254&style=flat" alt="dedpy" />
-</p>
 
-<!-- Social Section -->
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
-<p align="center">
-  <a href= "https://github.com/Dedpy/">
-    <img src="https://img.icons8.com/material-outlined/30/D69254/source-code.png"/>
-  </a>
-  <a href= "https://www.linkedin.com/in/wassimbenromdhane/">
-    <img src="https://img.icons8.com/material-outlined/30/D69254/linkedin.png"/>
-  </a>
-  <a href= "https://twitter.com/wassimbenr">
-    <img src="https://img.icons8.com/material-outlined/30/D69254/twitter.png"/>
-  </a>
-  <a href= "https://wassimbenr.me/">
-    <img src="https://img.icons8.com/material-outlined/30/D69254/geography.png"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/wassimbenr">
-    <img src="https://img.icons8.com/material-outlined/30/D69254/cafe.png"/>
-  </a>
-  <a href="https://www.youtube.com/@wassimbenromdhane?sub_confirmation=1">
-    <img src="https://img.icons8.com/material-outlined/30/D69254/youtube-play.png"/>
-  </a>
-  <a href="https://drive.google.com/file/d/10T8-khmhSfFPer4oqk-30hQVPcYjV-va/view?usp=sharing">
-    <img src="https://img.icons8.com/material-outlined/30/D69254/resume.png"/>
-  </a>
-  <a href="mailto:wassimbenr@gmail.com">
-    <img src="https://img.icons8.com/ios-glyphs/30/D69254/email.png"/>
-  </a>
-  <a href="https://medium.com/@wassimbenr">
-    <img src="https://img.icons8.com/ios-filled/30/D69254/medium-new.png"/>
-  </a>
-  <a href="https://stackoverflow.com/users/5993259/wassim-ben-romdhane">
-    <img src="https://img.icons8.com/metro/26/D69254/stackoverflow.png"/>
-  </a>
 </p>
 
 **🚀 Skills**:&nbsp;
