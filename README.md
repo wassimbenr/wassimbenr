@@ -30,11 +30,11 @@ If you want to learn more about my work or have any questions, feel free to reac
 <br>
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=dedpy&margin-w=15&row=1&column=6&no-bg=true&no-frame=true&theme=darkhub" alt="trophy" />
+ <img src="https://github-profile-trophy.vercel.app/?username=wassimbenr&margin-w=15&row=1&column=6&no-bg=true&no-frame=true&theme=darkhub" alt="trophy" />
 </p>
 <br>
 
 <p align="center">
-    <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dedpy&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="dedpy" />
-    <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Dedpy&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+    <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=wassimbenr&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="wassimbenr" />
+    <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=wassimbenr&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </p>
